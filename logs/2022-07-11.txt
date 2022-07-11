@@ -1,0 +1,34 @@
+---------  Jul 11, 2022 Currency Rates  ---------
+
+# US Dollar (USD)
+Buying : Rs.345.0
+Selling : Rs.0.0
+
+# Sterling Pound (GBP)
+Buying : Rs.409.64
+Selling : Rs.450.14
+
+# Euro (EUR)
+Buying : Rs.346.63
+Selling : Rs.382.22
+
+# Yen (JPY)
+Buying : Rs.2.49
+Selling : Rs.2.76
+
+# Swiss Franc (CHF)
+Buying : Rs.348.6
+Selling : Rs.384.85
+
+# Australian Dollar (AUD)
+Buying : Rs.225.53
+Selling : Rs.259.19
+
+# Canadian Dollar (CAD)
+Buying : Rs.263.23
+Selling : Rs.291.55
+
+# Singapore Dollar (SGD)
+Buying : Rs.243.68
+Selling : Rs.270.08
+
